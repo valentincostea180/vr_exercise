@@ -1,18 +1,24 @@
 📱 WebAR 3D Model Viewer (MindAR + Three.js)
+
 This project is a Web-based Augmented Reality (AR) application that uses image tracking to display and animate a 3D model using MindAR and Three.js.
+
 When the camera detects a predefined image target, a 3D model (.glb) is rendered and animated on top of it in real time.
+
 🚀 Features
 📷 Camera-based AR using image tracking
 🧊 Loads and displays .glb 3D models
 🔄 Smooth real-time rotation animation
 🎧 Support for loading audio, video, and textures
 🌐 Runs in the browser (no app install needed)
+
 🧠 Technologies Used
 MindAR – WebAR image tracking
 Three.js – 3D rendering engine
 GLTFLoader – For loading .glb models
 JavaScript (ES Modules)
 Node.js (for local server)
+
+
 📁 Project Structure
 project/
 │
@@ -25,6 +31,7 @@ project/
 ├── vali.mind         # Image tracking target
 │
 └── server.js (optional) # Node server
+
 ⚙️ How It Works
 🔹 main.js
 Initializes MindAR
