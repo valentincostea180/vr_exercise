@@ -1,19 +1,3 @@
-
-
-###📁 Project Structure
-project/
-│
-├── main.js            # Main AR logic
-├── loader.js          # Asset loading utilities
-├── GLTFLoader.js      # Three.js GLTF loader
-├── three.module.js    # Three.js module
-│
-├── vali.glb           # 3D model
-├── vali.mind          # Image tracking target
-│
-└── server.js          # (optional) Node server
-
-
 ## 🎯 Key Components
 
 ### WebAR 3D Model Viewer
