@@ -21,14 +21,6 @@ GLTFLoader – For loading .glb models
 JavaScript (ES Modules)
 Node.js (optional, for local server)
 
-## 💡 Smart Features
-
-- **Time Validation**: Prevents scheduling conflicts and invalid time ranges
-- **Auto-formatting**: Converts YouTube URLs to embedded format
-- **Responsive Design**: Works on tablets, desktops, and touch screens
-- **Error Handling**: User-friendly alerts for invalid inputs
-- **Data Persistence**: Integrated with backend API
-
 ## 🚀 Getting Started
 
 1. Clone the repository
