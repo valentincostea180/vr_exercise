@@ -15,11 +15,11 @@ When the camera detects a predefined image target, a .glb model is displayed and
 🌐 Runs entirely in the browser
 
 ### Technologies Used
-MindAR – WebAR image tracking
-Three.js – 3D rendering engine
-GLTFLoader – For loading .glb models
-JavaScript (ES Modules)
-Node.js (optional, for local server)
+1. MindAR – WebAR image tracking
+2. Three.js – 3D rendering engine
+3. GLTFLoader – For loading .glb models
+4. JavaScript (ES Modules)
+5. Node.js (optional, for local server)
 
 ## 🚀 Getting Started
 
