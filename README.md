@@ -7,14 +7,14 @@ An interactive Web-based Augmented Reality (AR) application that uses image trac
 
 When the camera detects a predefined image target, a .glb model is displayed and animated on top of it in real time — no app installation required.
 
-### Features
+## Features
 📷 Camera-based AR using image tracking
 🧊 Loads and displays .glb 3D models
 🔄 Smooth real-time rotation animation
 🎧 Support for audio, video, and textures
 🌐 Runs entirely in the browser
 
-### Technologies Used
+## Technologies Used
 1. MindAR – WebAR image tracking
 2. Three.js – 3D rendering engine
 3. GLTFLoader – For loading .glb models
