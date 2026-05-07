@@ -38,9 +38,3 @@ Loads the 3D model
 Anchors the model to the tracked image
 Animates the model (rotation)
 
-Provides reusable loaders for:
-
-3D models (.glb)
-Audio
-Video
-Textures
